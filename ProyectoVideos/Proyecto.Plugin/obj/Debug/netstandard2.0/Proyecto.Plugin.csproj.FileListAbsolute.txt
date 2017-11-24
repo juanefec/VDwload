@@ -1,0 +1,10 @@
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\obj\Debug\netstandard2.0\Proyecto.Plugin.csproj.CoreCompileInputs.cache
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\obj\Debug\netstandard2.0\Proyecto.Plugin.AssemblyInfoInputs.cache
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\obj\Debug\netstandard2.0\Proyecto.Plugin.AssemblyInfo.cs
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\bin\Debug\netstandard2.0\Proyecto.Plugin.deps.json
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\bin\Debug\netstandard2.0\Proyecto.Plugin.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\bin\Debug\netstandard2.0\Proyecto.Plugin.pdb
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\bin\Debug\netstandard2.0\Proyecto.Common.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\bin\Debug\netstandard2.0\Proyecto.Common.pdb
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\obj\Debug\netstandard2.0\Proyecto.Plugin.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Plugin\obj\Debug\netstandard2.0\Proyecto.Plugin.pdb

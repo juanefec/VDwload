@@ -1,0 +1,8 @@
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Common\obj\Debug\netstandard2.0\Proyecto.Common.csproj.CoreCompileInputs.cache
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Common\obj\Debug\netstandard2.0\Proyecto.Common.AssemblyInfoInputs.cache
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Common\obj\Debug\netstandard2.0\Proyecto.Common.AssemblyInfo.cs
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Common\bin\Debug\netstandard2.0\Proyecto.Common.deps.json
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Common\bin\Debug\netstandard2.0\Proyecto.Common.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Common\bin\Debug\netstandard2.0\Proyecto.Common.pdb
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Common\obj\Debug\netstandard2.0\Proyecto.Common.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Common\obj\Debug\netstandard2.0\Proyecto.Common.pdb

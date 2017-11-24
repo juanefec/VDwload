@@ -1,0 +1,14 @@
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\obj\Debug\netcoreapp2.0\Proyecto.Consola.csproj.CoreCompileInputs.cache
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\obj\Debug\netcoreapp2.0\Proyecto.Consola.AssemblyInfoInputs.cache
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\obj\Debug\netcoreapp2.0\Proyecto.Consola.AssemblyInfo.cs
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Consola.deps.json
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Consola.runtimeconfig.json
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Consola.runtimeconfig.dev.json
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Consola.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Consola.pdb
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Common.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Plugin.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Common.pdb
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\bin\Debug\netcoreapp2.0\Proyecto.Plugin.pdb
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\obj\Debug\netcoreapp2.0\Proyecto.Consola.dll
+c:\Users\juanc_lu\Desktop\ProyectoVideos\Proyecto.Consola\obj\Debug\netcoreapp2.0\Proyecto.Consola.pdb
